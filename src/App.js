@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 
-export default function MyAppy() {
+export default function MyApp() {
   const [count, setCount] = useState(0)
 
   function handleClick() {
